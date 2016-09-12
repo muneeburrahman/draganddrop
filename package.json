@@ -1,0 +1,25 @@
+{
+  "name": "draganddrop",
+  "version": "1.0.0",
+  "description": "Widget to have image file drag and drop feature with preview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muneeburrahman/draganddrop.git"
+  },
+  "keywords": [
+    "p5.js",
+    "javascript",
+    "draganddrop",
+    "imagepreview"
+  ],
+  "author": "Muneeb-ur-Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muneeburrahman/draganddrop/issues"
+  },
+  "homepage": "https://github.com/muneeburrahman/draganddrop#readme"
+}
