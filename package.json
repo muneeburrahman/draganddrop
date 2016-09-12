@@ -4,6 +4,8 @@
   "description": "Widget to have image file drag and drop feature with preview",
   "main": "index.js",
   "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,6 +25,7 @@
   },
   "homepage": "https://github.com/muneeburrahman/draganddrop#readme",
   "devDependencies": {
+    "lite-server": "^2.2.2",
     "p5": "^0.5.3"
   }
 }
