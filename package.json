@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/muneeburrahman/draganddrop/issues"
   },
-  "homepage": "https://github.com/muneeburrahman/draganddrop#readme"
+  "homepage": "https://github.com/muneeburrahman/draganddrop#readme",
+  "devDependencies": {
+    "p5": "^0.5.3"
+  }
 }
